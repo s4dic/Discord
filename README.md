@@ -1,4 +1,4 @@
-# discord-server-resolver
+# Discord-server-resolver
 
 Exécutez simplement la commande suivante :
 ```
