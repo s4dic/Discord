@@ -1,6 +1,7 @@
 #!/bin/bash
 # verifie si tu es root
 if [ "$EUID" -ne 0 ]; then
+    clear
     echo "Erreur : ce script doit être exécuté en tant que root."
     exit 1
 fi
